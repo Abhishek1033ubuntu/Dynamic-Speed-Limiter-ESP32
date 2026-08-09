@@ -1,6 +1,7 @@
 # Dynamic Speed Limiter for Automobiles (ESP32 + LoRa)
 
 An infrastructure-to-vehicle (I2V) wireless speed-control system that dynamically restricts maximum vehicle speed in designated safety zones (school zones, municipal limits, construction areas) using Sub-GHz RF beacons and Drive-by-Wire throttle interception.
+---
 This is an 'adaptation' of the system architecture our group (my colleagues and I) submitted to the College as a Final Year Project mandatory for completion of the Bachelor of Engineering Degree from Rajiv Gandhi Proudyogiki Vishwavidyala (RGPV) Bhopal, in 2005 via Maharana Pratap college of Technology Electronics and Communications Branch.
 ---
 
