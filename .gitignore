@@ -1,0 +1,12 @@
+```text
+# Arduino / PlatformIO Build Artifacts
+.pio/
+.vscode/
+build/
+*.hex
+*.elf
+*.bin
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
