@@ -1,6 +1,6 @@
 # Dynamic Speed Limiter for Automobiles (ESP32 + LoRa)
 
----
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21863340.svg)](https://doi.org/10.5281/zenodo.21863340)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
@@ -42,4 +42,4 @@ flowchart TD
     style OPTO fill:#d69e2e,stroke:#333,stroke-width:2px,color:#fff
     style BUCK fill:#e53e3e,stroke:#333,stroke-width:2px,color:#fff
 
-
+**Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
