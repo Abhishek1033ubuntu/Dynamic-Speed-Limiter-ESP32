@@ -8,7 +8,9 @@
 An infrastructure-to-vehicle (I2V) wireless speed-control system that dynamically restricts maximum vehicle speed in designated safety zones (school zones, municipal limits, construction areas) using Sub-GHz RF beacons and Drive-by-Wire throttle interception.
 ---
 This is an 'adaptation' of the system architecture our group (my colleagues and I) submitted to the College as a Final Year Project mandatory for completion of the Bachelor of Engineering Degree from Rajiv Gandhi Proudyogiki Vishwavidyala (RGPV) Bhopal, in 2005 via Maharana Pratap college of Technology Electronics and Communications Branch.
-
+---
+**Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
+---
 ## 🛠 System Architecture Diagram
 
 ```mermaid
@@ -41,5 +43,3 @@ flowchart TD
     style RX fill:#319795,stroke:#333,stroke-width:2px,color:#fff
     style OPTO fill:#d69e2e,stroke:#333,stroke-width:2px,color:#fff
     style BUCK fill:#e53e3e,stroke:#333,stroke-width:2px,color:#fff
-
-**Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
