@@ -1,7 +1,6 @@
 # Dynamic Speed Limiter for Automobiles (ESP32 + LoRa)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21863340-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21863340)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21863340.svg)](https://doi.org/10.5281/zenodo.21863340)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 ---
